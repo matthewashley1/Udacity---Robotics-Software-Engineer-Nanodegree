@@ -7,12 +7,14 @@ Repository for all projects completed for Udacity's Robotics Software Engineer N
 
 ___
 
-## Project 1 - [Build My World]()
+## Project 1 - [Build My World](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/tree/master/Build%20My%20World)
 
-In this project, I had to create a Gazebo world environment by including multiple models
+Create a Gazebo world environment by including multiple models
 
 ___
 
-## Project 2 - [Go Chase It]()
+## Project 2 - [Go Chase It](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/tree/master/Go%20Chase%20It)
 
+Design a mobile robot housed inside a Gazebo world that will chase a white ball. Robot is programmed with ROS using C++ nodes.
 
+___
