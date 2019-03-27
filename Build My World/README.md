@@ -12,6 +12,8 @@ ___
 - People
 - Robot
 
+___
+
 ## Script
 
 Setup C++ script to run once Gazebo world is launched. Outputted to terminal *"Welcome to Matthew Ashley's World"*.
@@ -36,11 +38,21 @@ Setup C++ script to run once Gazebo world is launched. Outputted to terminal *"W
     }
 ```
 
+___
+
 ## Launch
 
 To launch the Gazebo world:
 
+```console
+    user:~/filepath$ gazebo world/myworld
+```
+
+### Image
+
 ![launch command](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Build%20My%20World/img/BMW%20img1.png)
+
+___
 
 ## Output
 
