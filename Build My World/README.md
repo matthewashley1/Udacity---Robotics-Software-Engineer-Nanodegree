@@ -38,3 +38,10 @@ Setup C++ script to run once Gazebo world is launched. Outputted to terminal *"W
 
 ## Launch
 
+To launch the Gazebo world:
+
+![launch command](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Build%20My%20World/img/BMW%20img1.png)
+
+## Output
+
+![Output](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Build%20My%20World/img/BMW%20img2.png)
