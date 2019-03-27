@@ -1,0 +1,8 @@
+prefix=/home/robond/Documents/Project2/catkin_ws/devel
+
+Name: ball_casher
+Description: Description of ball_casher
+Version: 0.0.0
+Cflags: -I/home/robond/Documents/Project2/catkin_ws/devel/include
+Libs: -L/home/robond/Documents/Project2/catkin_ws/devel/lib 
+Requires: 
