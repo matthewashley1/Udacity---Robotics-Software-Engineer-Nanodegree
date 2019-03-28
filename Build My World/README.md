@@ -18,7 +18,7 @@ ___
 
 Setup C++ script to run once Gazebo world is launched. Outputted to terminal *"Welcome to Matthew Ashley's World"*.
 
-```C++
+```Cpp
     #include <gazebo/gazebo.hh>
 
     namespace gazebo

@@ -15,6 +15,6 @@ ___
 
 ## Project 2 - [Go Chase It](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/tree/master/Go%20Chase%20It)
 
-Design a mobile robot housed inside a Gazebo world that will chase a white ball. Robot is programmed with ROS using C++ nodes.
+Design a mobile robot housed inside a Gazebo world that will chase a white ball. Robot is programmed with ROS using C++ nodes
 
 ___
