@@ -17,7 +17,7 @@ ___
 drive_bot.cpp is a server node that provides the ball_chaser/command_robot service and continuously publishes to the robot /cmd_vel topic
 
 ```Cpp
-    #include "ros/ros.h"
+#include "ros/ros.h"
 #include "geometry_msgs/Twist.h"
 #include "ball_chaser/DriveToTarget.h"
 
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 process_image.cpp is a client node that subscribes to the robot's camera image and analyzes the images to determine the position of a white ball. Once the ball's position is acquired, the client node will request a service from the drive_bot server node to drive the robot toward the ball.
 
 ```Cpp
-    #include "ros/ros.h"
+#include "ros/ros.h"
 #include "ball_chaser/DriveToTarget.h"
 #include <sensor_msgs/Image.h>
 

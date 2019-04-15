@@ -18,3 +18,7 @@ ___
 Design a mobile robot housed inside a Gazebo world that will chase a white ball. Robot is programmed with ROS using C++ nodes
 
 ___
+
+## Project 3 - [Where am I]()
+
+Localize a robot utilizing the adaptive Monte Carlo Localization algorithm in ROS
