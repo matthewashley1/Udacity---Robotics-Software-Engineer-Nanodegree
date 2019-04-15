@@ -19,6 +19,6 @@ Design a mobile robot housed inside a Gazebo world that will chase a white ball.
 
 ___
 
-## Project 3 - [Where am I]()
+## Project 3 - [Where am I](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/tree/master/Where%20am%20I)
 
 Localize a robot utilizing the adaptive Monte Carlo Localization algorithm in ROS
