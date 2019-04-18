@@ -22,3 +22,11 @@ ___
 ## Project 3 - [Where am I](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/tree/master/Where%20am%20I)
 
 Localize a robot utilizing the adaptive Monte Carlo Localization algorithm in ROS
+
+___
+
+## Project 4 - [Map My World]()
+
+Deploy RTAB-Map on simulated environments to create 2D and 3D maps of that environment  
+
+___
