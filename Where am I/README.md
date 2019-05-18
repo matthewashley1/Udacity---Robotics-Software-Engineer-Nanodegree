@@ -37,7 +37,7 @@ Launch AMCL:
     user:~/filepath$ roslaunch my_robot amcl.launch
 ```
 
-![launch AMCL]()
+![launch AMCL](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Where%20am%20I/img/WAI%20img5.png)
 
 ___
 
