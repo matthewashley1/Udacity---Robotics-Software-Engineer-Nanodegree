@@ -13,7 +13,7 @@ You first need to source ROS for the project:
     user:~/filepath$ source devel/setup.bash
 ```
 
-![source ROS](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Go%20Chase%20It/img/GCI%20img2.png)
+![source ROS](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Where%20am%20I/img/WAI%20img1.png)
 
 Build the project:
 
@@ -21,7 +21,7 @@ Build the project:
     user:~/filepath$ catkin_make
 ```
 
-![make project](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Go%20Chase%20It/img/GCI%20img3.png)
+![make project](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Where%20am%20I/img/WAI%20img2.png)
 
 Launch project:
 
@@ -29,7 +29,7 @@ Launch project:
     user:~/filepath$ roslaunch my_robot world.launch
 ```
 
-![launch project](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Go%20Chase%20It/img/GCI%20img4.png)
+![launch project](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Where%20am%20I/img/WAI%20img3.png)
 
 Launch AMCL:
 
@@ -37,8 +37,10 @@ Launch AMCL:
     user:~/filepath$ roslaunch my_robot amcl.launch
 ```
 
+![launch AMCL]()
+
 ___
 
 ## Output
 
-![output](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Go%20Chase%20It/img/GCI%20img1.gif)
+![output](https://github.com/matthewashley1/Udacity---Robotics-Software-Engineer-Nanodegree/blob/master/Where%20am%20I/img/WAI%20img4.gif)
